@@ -1,0 +1,39 @@
+# github.com/aws/aws-sdk-go v1.19.45
+github.com/aws/aws-sdk-go/aws/client
+github.com/aws/aws-sdk-go/aws/request
+github.com/aws/aws-sdk-go/aws
+github.com/aws/aws-sdk-go/aws/client/metadata
+github.com/aws/aws-sdk-go/internal/sdkrand
+github.com/aws/aws-sdk-go/aws/awserr
+github.com/aws/aws-sdk-go/aws/awsutil
+github.com/aws/aws-sdk-go/internal/sdkio
+github.com/aws/aws-sdk-go/aws/ec2metadata
+github.com/aws/aws-sdk-go/aws/credentials
+github.com/aws/aws-sdk-go/aws/endpoints
+github.com/aws/aws-sdk-go/aws/corehandlers
+github.com/aws/aws-sdk-go/internal/sdkuri
+github.com/aws/aws-sdk-go/internal/ini
+github.com/aws/aws-sdk-go/internal/shareddefaults
+# github.com/aws/aws-xray-sdk-go v0.9.4
+github.com/aws/aws-xray-sdk-go/xray
+github.com/aws/aws-xray-sdk-go/header
+github.com/aws/aws-xray-sdk-go/internal/plugins
+github.com/aws/aws-xray-sdk-go/pattern
+github.com/aws/aws-xray-sdk-go/resources
+github.com/aws/aws-xray-sdk-go/strategy/ctxmissing
+github.com/aws/aws-xray-sdk-go/strategy/exception
+github.com/aws/aws-xray-sdk-go/strategy/sampling
+# github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575
+github.com/cihub/seelog
+github.com/cihub/seelog/archive
+github.com/cihub/seelog/archive/gzip
+github.com/cihub/seelog/archive/tar
+github.com/cihub/seelog/archive/zip
+# github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
+github.com/jmespath/go-jmespath
+# github.com/lib/pq v1.1.1
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
